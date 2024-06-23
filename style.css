@@ -11,3 +11,12 @@ h1 {
 p {
     color: #666;
 }
+
+#installButton {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
