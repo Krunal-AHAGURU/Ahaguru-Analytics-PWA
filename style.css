@@ -78,7 +78,7 @@ code {
 	color: black;
 	font-family: monospace;
 	padding: 1px;
-	/* user-select: all; */
+	user-select: all;
 }
 
 code.image {
